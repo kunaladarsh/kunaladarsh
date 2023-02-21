@@ -11,10 +11,8 @@
 
 <h3>⚡Things I code with</h3>
 <p>
-<img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
-<img alt="Java" src="https://img.shields.io/badge/-Java-45b8d8?style=flat-square&logo=Java&logoColor=white"><a>
+<img alt="JAVA" src="https://img.shields.io/badge/Java-00599C?style=flat-square&logo=openjdk&logoColor=white"><a>
 <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=darkgreen"></a>
-<img alt="Python" src="https://img.shields.io/badge/Python-★★★-lightgrey?style=flat-square&labelColor=FFD43B&logo=python&logoColor=darkgreen"></a>
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white"></a>
 <img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white"></a>
 <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white"></a>
