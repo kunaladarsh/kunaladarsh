@@ -3,8 +3,7 @@
 
 - 🏢 3rd-Year B.Tech-CSE Student at **UPES**
 - 🔭 Area of interest is in <img src="https://img.shields.io/badge/Machine Learning-success"> and <img src="https://img.shields.io/badge/Software Development-blue">
-- 🎯 Research Interests: Machine Learning, Deep Learning, NLP, Software Engineering
-- 🌱 I'm Currently Learning Data Mining, Data Visualization, Anomaly Detection and NLP. 
+- 🌱 I'm Currently Learning Data Mining, Data Visualization, Anomaly Detection and Android Development. 
 - <img align ='center' width ='27' src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif'> Looking to collaborate on *Open Source Projects* on <img src="https://img.shields.io/badge/Machine Learning-blue">
 - 👯 Fun fact: I love to code.
 
@@ -21,10 +20,8 @@
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"></a>    
 <img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-fb4f14?style=flat-square&logo=Mathworks&logoColor=white"></a>
 <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"></a>
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"><a>
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white"><a>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"><a>
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"><a>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"><a>
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-CB3837?style=flat-square&logo=SQL&logoColor=white"><a>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"><a>
@@ -82,8 +79,8 @@
 </p>
 
 <!-- Profile Views -->
-
 <p align="left"><img src="https://komarev.com/ghpvc/?username=kunaladarsh&label=Profile%20views&color=0e75b6&style=flat" alt="kunaladarsh" height=21px/></p>
 <p href="https://github.com/kunaladarsh" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/kunaladarsh/kunaladarsh"/></p> 
+<a href="https://github.com/kunaladarsh/kunaladarsh/actions"><img alt="Build README" src="https://github.com/milaan9/milaan9/workflows/Build%20README/badge.svg"></a>
 
-**[Visit my website &rarr;](https://)**
+<!-- **[Visit my website &rarr;](https://)** -->
