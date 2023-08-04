@@ -34,15 +34,10 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunaladarsh&layout=compact&&show_icons=true&theme=radical)](https://github.com/kunaladarsh/github-readme-stats) |                                                              |
 
-<a href="https://github.com/kunaladarsh/github-readme-activity-graph">
- <img alt="Adarsh Kunal's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=kunaladarsh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
-</a>
 
 
 
-
-
-<!--  /// This code be not used ///
+<!-- /// This code be not used ///
 [![Adarsh Kunal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kunaladarsh&bg_color=121212&color=d01bc4&line=9e4c98&point=dd13a7&area=true&hide_border=true)](https://github.com/kunaladarsh/github-readme-activity-graph)
  Github Activities 
 ## 📈 Github Stats
@@ -60,7 +55,9 @@
 <a href="https://github.com/kunaladarsh/github-readme-activity-graph">
  <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=kunaladarsh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
 </a>
+
 -->
+
 
 
 
@@ -84,4 +81,4 @@
 <p href="https://github.com/kunaladarsh" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/kunaladarsh/kunaladarsh"/></p> 
 <a href="https://github.com/kunaladarsh/kunaladarsh/actions"><img alt="Build README" src="https://github.com/milaan9/milaan9/workflows/Build%20README/badge.svg"></a>
 
-<!-- **[Visit my website &rarr;](https://)** -->
+
