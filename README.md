@@ -22,10 +22,11 @@
 <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"><a>
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"><a>
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"><a>
+  <img alt="Django" src="https://img.shields.io/badge/-Django-13aa52?style=flat-square&logo=Django&logoColor=white"><a>
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-CB3837?style=flat-square&logo=SQL&logoColor=white"><a>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"><a>
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"><a>
+   <img alt="CSS" src="https://img.shields.io/badge/-CSS-FF6F00?style=flat-square&logo=CSS&logoColor=white"><a>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-43853d?style=flat-square&logo=JavaScript&logoColor=white"><a>
 </p>
 
 ---
