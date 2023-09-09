@@ -54,12 +54,11 @@
 	</a>
   <a href="https://github.com/kunaladarsh" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 
-<img align="right" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" height="150" title="Peace" />
+<img align="right" src="https://raw.githubusercontent.com/kunaladarsh/kunaladarsh/main/logo.webp" height="150" title="Peace" />
 </p>
 
 <!-- Profile Views -->
 <p align="left"><img src="https://komarev.com/ghpvc/?username=kunaladarsh&label=Profile%20views&color=0e75b6&style=flat" alt="kunaladarsh" height=21px/></p>
 <p href="https://github.com/kunaladarsh" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/kunaladarsh/kunaladarsh"/></p> 
-<a href="https://github.com/kunaladarsh/kunaladarsh/actions"><img alt="Build README" src="https://github.com/milaan9/milaan9/workflows/Build%20README/badge.svg"></a>
 
-
+<!-- ![githubbadge](https://img.shields.io/github/stars/kunaladarsh?style=social) -->
