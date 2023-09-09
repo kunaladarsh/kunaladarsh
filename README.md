@@ -1,13 +1,13 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I am Adarsh Kunal</h1>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I am Adarsh Kunal</h2>
 
 
 - 🏢 3rd-Year B.Tech-CSE Student at **UPES**
 - 🔭 Area of interest is in <img src="https://img.shields.io/badge/Machine Learning-success"> and <img src="https://img.shields.io/badge/Software Development-blue">
-- 🌱 I'm Currently Learning Data Mining, Data Visualization and Anomaly Detection. 
-- <img align ='center' width ='27' src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif'> Looking to collaborate on *Open Source Projects* on <img src="https://img.shields.io/badge/Machine Learning-blue">
+- <img align ='center' width ='27' src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif'> Looking to collaborate on *Open Source Projects*.
 - 👯 Fun fact: I love to code.
 
 
+<!--
 <h3>⚡Things I code with</h3>
 <p>
 <img alt="JAVA" src="https://img.shields.io/badge/Java-00599C?style=flat-square&logo=openjdk&logoColor=white"><a>
@@ -22,12 +22,42 @@
 <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"><a>
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"><a>
-  <img alt="Django" src="https://img.shields.io/badge/-Django-13aa52?style=flat-square&logo=Django&logoColor=white"><a>
+<img alt="Django" src="https://img.shields.io/badge/-Django-13aa52?style=flat-square&logo=Django&logoColor=white"><a>
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-CB3837?style=flat-square&logo=SQL&logoColor=white"><a>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"><a>
    <img alt="CSS" src="https://img.shields.io/badge/-CSS-FF6F00?style=flat-square&logo=CSS&logoColor=white"><a>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-43853d?style=flat-square&logo=JavaScript&logoColor=white"><a>
-</p>
+</p> 
+-->
+#### Languages
+
+![Java](https://img.shields.io/badge/Java-fff?&logo=openjdk&logoColor=ddc508)
+![Python](https://img.shields.io/badge/-Python-fff?&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
+![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
+
+
+#### Technologies
+![JDBC API](https://img.shields.io/badge/-JDBC_API-fff?style=flat&logo=JDBC%API&logoColor=0078D7)
+![Python Django Framework](https://img.shields.io/badge/-Python_Django_Framework-fff?style=flat&logo=Django&logoColor=0078D7)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?style=flat&logo=bootstrap&logoColor=563D7C)
+![Google Colab](https://img.shields.io/badge/-GoogleColab-fff?style=flat&logo=GoogleColab&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL%20Server-fff?style=flat&logo=Microsoft-SQL-Server&logoColor=blue)
+![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-fff?style=flat&logo=GitHub&logoColor=blue)
+![Open Source](https://img.shields.io/badge/-Open%20Source-fff?style=flat&logo=open-source-Initiative)
+![Azure](https://img.shields.io/badge/-Azure-fff?&logo=Microsoft-Azure&logoColor=blue)
+![Visual Studio](https://img.shields.io/badge/-VisualStudio-fff?style=flat&logo=VisualStudio&logoColor=blue)
+![Eclipse](https://img.shields.io/badge/-Eclipse-fff?style=flat&logo=Eclipse&logoColor=blue)
+![Apache NetBeans](https://img.shields.io/badge/-ApacheNetBeans-fff?style=flat&logo=ApacheNetBeansIDE&logoColor=blue)
+
+#### Full Stack projects
+
+[![Project Mentor Slot Booking](https://img.shields.io/badge/-📲%20Project%20Mentor%20Slot%20Booking-fff?)](https://github.com/kunaladarsh/Project-Mentor-Slot-Booking)
+[![Banking Management System Application](https://img.shields.io/badge/-👨‍💻%20Banking%20Management%20System%20Application-fff?)](https://github.com/kunaladarsh/Banking-Management-System-Application)
+
 
 ---
 | ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunaladarsh&show_icons=true&theme=radical) | [![Adarsh Kunal's Stri](https://streak-stats.demolab.com?user=kunaladarsh&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
