@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I am Adarsh Kunal</h2>
+<h1> Hi 👋, I'm Adarsh Kunal</h1>
 
 
 - 🏢 Final-Year B.Tech-CSE Student at **UPES**
