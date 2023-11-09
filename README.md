@@ -4,7 +4,6 @@
 - 🏢 Final-Year B.Tech-CSE Student at **UPES**
 - 🔭 Area of interest is in <img src="https://img.shields.io/badge/Machine Learning-success"> and <img src="https://img.shields.io/badge/Software Development-blue">
 - <img align ='center' width ='27' src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif'> Looking to collaborate on *Open Source Projects*.
-- 👯 Fun fact: I love to code.
 
 #### Languages
 
