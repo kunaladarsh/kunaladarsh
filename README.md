@@ -54,7 +54,7 @@
 	</a>
   <a href="https://github.com/kunaladarsh" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 
-<img align="right" src="https://raw.githubusercontent.com/kunaladarsh/kunaladarsh/main/logo.webp" height="150" title="Peace" />
+<!-- <img align="right" src="https://raw.githubusercontent.com/kunaladarsh/kunaladarsh/main/logo.webp" height="150" title="Peace" /> -->
 </p>
 
 <!-- Profile Views -->
