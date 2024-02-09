@@ -15,13 +15,13 @@
 
 #### Technologies
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-fff?style=flat&logo=SpringBoot&logoColor=green)
-![JDBC API](https://img.shields.io/badge/-JDBC_API-fff?style=flat&logo=JDBC%API&logoColor=0078D7)
+![Restful API](https://img.shields.io/badge/-RestfulAPI-fff?style=flat&logo=RestfulAPI&logoColor=0078D7)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-fff?style=flat&logo=Hibernate&logoColor=a2b1ba)
 ![Python Django Framework](https://img.shields.io/badge/-Python_Django_Framework-fff?style=flat&logo=Django&logoColor=0078D7)
 ![React](https://img.shields.io/badge/-React-fff?style=flat&logo=React&logoColor=61DBFB)
 ![Node.Js](https://img.shields.io/badge/-Node.js-fff?style=flat&logo=Node.js&logoColor=3c873a)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?style=flat&logo=bootstrap&logoColor=563D7C)
-![Google Colab](https://img.shields.io/badge/-GoogleColab-fff?style=flat&logo=GoogleColab&logoColor=black)
+![Google Colab](https://img.shields.io/badge/-GoogleColab-fff?style=flat&logo=GoogleColab&logoColor=FF9900)
 ![SQL](https://img.shields.io/badge/-SQL%20Server-fff?style=flat&logo=Microsoft-SQL-Server&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
