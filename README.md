@@ -6,8 +6,7 @@
 - <img align ='center' width ='27' src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif'> Looking to collaborate on *Open Source Projects*.
 
 #### Languages
-
-![Java](https://img.shields.io/badge/Java-fff?&logo=openjdk&logoColor=ddc508)
+![Java](https://img.shields.io/badge/Java-fff?&logo=openjdk&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-fff?&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
@@ -15,16 +14,21 @@
 
 
 #### Technologies
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-fff?style=flat&logo=SpringBoot&logoColor=green)
 ![JDBC API](https://img.shields.io/badge/-JDBC_API-fff?style=flat&logo=JDBC%API&logoColor=0078D7)
+![Hibernate](https://img.shields.io/badge/-Hibernate-fff?style=flat&logo=Hibernate&logoColor=a2b1ba)
 ![Python Django Framework](https://img.shields.io/badge/-Python_Django_Framework-fff?style=flat&logo=Django&logoColor=0078D7)
+![React](https://img.shields.io/badge/-React-fff?style=flat&logo=React&logoColor=61DBFB)
+![Node.Js](https://img.shields.io/badge/-Node.js-fff?style=flat&logo=Node.js&logoColor=3c873a)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Google Colab](https://img.shields.io/badge/-GoogleColab-fff?style=flat&logo=GoogleColab&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL%20Server-fff?style=flat&logo=Microsoft-SQL-Server&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-fff?style=flat&logo=GitHub&logoColor=blue)
+![GitHub](https://img.shields.io/badge/-GitHub-fff?style=flat&logo=GitHub&logoColor=black)
 ![Open Source](https://img.shields.io/badge/-Open%20Source-fff?style=flat&logo=open-source-Initiative)
 ![Azure](https://img.shields.io/badge/-Azure-fff?&logo=Microsoft-Azure&logoColor=blue)
+![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=FF9900)
 ![Visual Studio](https://img.shields.io/badge/-VisualStudio-fff?style=flat&logo=VisualStudio&logoColor=blue)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-fff?style=flat&logo=Eclipse&logoColor=blue)
 ![Apache NetBeans](https://img.shields.io/badge/-ApacheNetBeans-fff?style=flat&logo=ApacheNetBeansIDE&logoColor=blue)
